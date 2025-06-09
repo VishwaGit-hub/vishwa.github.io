@@ -1,1 +1,1 @@
-# vishwa.github.io
+Welcome to my AI portfolio! 🎉 Here, you’ll find a collection of smart projects I’ve built to solve real problems. Each project uses technology to make things easier, faster, and more helpful 📊. Take a look at my work and see how I’m exploring AI to create useful and exciting tools. 🌟
