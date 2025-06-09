@@ -14,6 +14,7 @@ Large Language Models (LLMs) — for generating summary content
 
 
 How to Use
+
 Provide the prospect’s LinkedIn profile URL in https:// format.
 
 Provide the company’s website URL in https:// format.
@@ -21,4 +22,5 @@ Provide the company’s website URL in https:// format.
 The AI agent will process these inputs and generate a concise pre-call summary to help prepare for sales conversations.
 
 
-Link:https://app.relevanceai.com/agents/d7b62b/bf55a823b9e0-41fc-a88e-c5f855e66db5/95ea29ac-cb19-4425-8147-d2291e5a2015/embed-chat?hide_tool_steps=false&hide_file_uploads=false&hide_conversation_list=false&bubble_style=agent&primary_color=%23685FFF&bubble_icon=pd%2Fchat&input_placeholder_text=Type+your+message...&hide_logo=false&hide_description=false
+Link:[Open Sales Copilot AI Agent](https://app.relevanceai.com/agents/d7b62b/bf55a823b9e0-41fc-a88e-c5f855e66db5/95ea29ac-cb19-4425-8147-d2291e5a2015/embed-chat?hide_tool_steps=false&hide_file_uploads=false&hide_conversation_list=false&bubble_style=agent&primary_color=%23685FFF&bubble_icon=pd%2Fchat&input_placeholder_text=Type+your+message...&hide_logo=false&hide_description=false)
+
