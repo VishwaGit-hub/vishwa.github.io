@@ -13,7 +13,7 @@ Firecrawl — for web scraping of LinkedIn and company data
 Large Language Models (LLMs) — for generating summary content
 
 
-How to Use
+How to Use:
 
 Provide the prospect’s LinkedIn profile URL in https:// format.
 
