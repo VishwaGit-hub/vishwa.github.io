@@ -23,15 +23,16 @@
 
 ---
 
+
 ## 🧹 Connor's Cleaning Chatbot
 
-**ConnorBot** is a virtual assistant for [Connor's Cleaning Services](https://connors-cleaning.netlify.app) that helps users inquire about services, pricing, and availability — while collecting essential lead information like **name** and **phone number**. It automates customer interaction and stores user info in real time.
+**ConnorBot** is a virtual assistant for [Connor's Cleaning Services](https://connors-cleaning.netlify.app) that helps users inquire about services, pricing, and availability — while collecting essential lead information like **name** and **phone number**. It also allows users to call an agent directly through an integrated **Twilio voice system**.
 
 ### 🛠 Tools Used
 - **Voiceflow** — for building and deploying the chatbot  
-- **Make.com** — for webhook automation
-- **Relevance.ai** - for quote calculation tool 
+- **Make.com** — for webhook automation  
 - **Google Sheets** — for storing captured leads  
+- **Twilio** — for phone call integration between users and agents  
 - **Netlify** — for free, live website hosting  
 - **Tailwind CSS + HTML** — responsive website layout and styling  
 - **ScrollReveal.js** — smooth animations on page load  
@@ -40,16 +41,21 @@
 - Live floating chatbot embedded on the site  
 - Answers FAQs and explains services clearly  
 - Collects name and phone number from users  
-- Sends data to a Google Sheet via a Make.com webhook  
+- Sends data to a Google Sheet via Make.com webhook  
+- Offers **voice call option via Twilio** for human-agent conversation  
 - Fully responsive and mobile-friendly UI  
 
 ### ⚡ How to Use
 1. Go to [connors-cleaning.netlify.app](https://connors-cleaning.netlify.app)  
-2. Start chatting with the bot (bottom-right)  
-3. Ask about services, prices, or availability  
-4. Share your name and phone number to request a quote  
-5. Your info is saved in a Google Sheet for the business to follow up  
+2. Chat with ConnorBot to get service info or request a quote  
+3. Share your **name** and **phone number**  
+4. Choose to receive a **callback or place a direct call**  
+5. All conversations are routed and logged via **Twilio**
 
 ### 🔗 [👉 Try Connor's Chatbot Now](https://connors-cleaning.netlify.app)
 
-> 🚀 This project demonstrates how to launch a chatbot-powered service website that collects leads and automates workflows — all for free using no-code and low-code tools.
+> 📞 The voice integration is powered by Twilio, enabling real-time customer calls with agent routing — no app or download required.
+
+---
+
+
