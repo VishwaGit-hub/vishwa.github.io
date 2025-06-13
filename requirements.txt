@@ -1,0 +1,9 @@
+hello! To run image_background_remover.py you have to import following libraries...
+streamlit
+rembg
+Pillow
+
+To run realtime_video_bg_remover you have to import following libraries...
+opencv-python
+rembg
+numpy
