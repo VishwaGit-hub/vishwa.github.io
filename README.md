@@ -1,7 +1,9 @@
 ## 📁 Projects
 
-1. [Sales Copilot AI Agent](#sales-copilot-ai-agent)
-2. [Connor's Cleaning Chatbot](#connors-cleaning-chatbot)
+1. [Sales Copilot AI Agent](#sales-copilot-ai-agent)  
+2. [Connor's Cleaning Chatbot](#connors-cleaning-chatbot)  
+3. [Video Background Remover](#video-background-remover)  
+4. [Image Background Remover Web App](#image-background-remover-web-app)
 
 ---
 
@@ -22,7 +24,6 @@
 ### 🔗 [Open Sales Copilot AI Agent →](https://app.relevanceai.com/agents/d7b62b/bf55a823b9e0-41fc-a88e-c5f855e66db5/95ea29ac-cb19-4425-8147-d2291e5a2015/embed-chat?hide_tool_steps=false&hide_file_uploads=false&hide_conversation_list=false&bubble_style=agent&primary_color=%23685FFF&bubble_icon=pd%2Fchat&input_placeholder_text=Type+your+message...&hide_logo=false&hide_description=false)
 
 ---
-
 
 ## 🧹 Connor's Cleaning Chatbot
 
@@ -58,4 +59,32 @@
 
 ---
 
+## 🎥 Video Background Remover
 
+**Video Background Remover** is a real-time computer vision project that removes the background from live webcam video using AI.
+
+### 🛠 Tools Used
+- **Python**, **OpenCV**, **cvzone**, **SelfiSegmentation Module**
+
+### ⚙️ Features
+- Real-time background removal using webcam feed  
+- Option to overlay a custom background or display a plain color  
+- Lightweight and easy to use  
+
+> 📸 Ideal for virtual meetings, video content, or fun experiments
+
+---
+
+## 🖼️ Image Background Remover Web App
+
+**Image Background Remover** is a Streamlit-powered web application that removes backgrounds from uploaded images using AI.
+
+### 🛠 Tools Used
+- **Python**, **Streamlit**, **rembg**
+
+### ⚙️ Features
+- Upload any image and get a transparent background version  
+- Fast and easy-to-use interface  
+- Fully browser-based — no installation required
+
+> 🌐 Ideal for e-commerce, design work, or personal projects.
